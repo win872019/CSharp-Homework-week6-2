@@ -1,0 +1,14 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\bin\Debug\net6.0\WriteAllLines by Doc.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\bin\Debug\net6.0\WriteAllLines by Doc.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\bin\Debug\net6.0\WriteAllLines by Doc.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\bin\Debug\net6.0\WriteAllLines by Doc.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\bin\Debug\net6.0\WriteAllLines by Doc.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\refint\WriteAllLines by Doc.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\WriteAllLines by Doc.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\WriteAllLines by Doc\obj\Debug\net6.0\ref\WriteAllLines by Doc.dll

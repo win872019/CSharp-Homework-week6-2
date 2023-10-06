@@ -1,0 +1,29 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\bin\Debug\net6.0\week-6-檔案處理-practice.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\bin\Debug\net6.0\week-6-檔案處理-practice.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\bin\Debug\net6.0\week-6-檔案處理-practice.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\bin\Debug\net6.0\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\bin\Debug\net6.0\week-6-檔案處理-practice.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\refint\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\week-6-檔案處理-practice.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\week-6-檔案處理-practice\obj\Debug\net6.0\ref\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\bin\Debug\net6.0\week-6-檔案處理-practice.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\bin\Debug\net6.0\week-6-檔案處理-practice.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\bin\Debug\net6.0\week-6-檔案處理-practice.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\bin\Debug\net6.0\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\bin\Debug\net6.0\week-6-檔案處理-practice.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\refint\week-6-檔案處理-practice.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\week-6-檔案處理-practice.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\Random Class 、DateTime Struct-重點整理 & Practice - by Documentation\obj\Debug\net6.0\ref\week-6-檔案處理-practice.dll

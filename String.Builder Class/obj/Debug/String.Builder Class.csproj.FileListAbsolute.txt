@@ -1,0 +1,8 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\bin\Debug\String.Builder Class.exe.config
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\bin\Debug\String.Builder Class.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\bin\Debug\String.Builder Class.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\obj\Debug\String.Builder Class.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\obj\Debug\String.Builder Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\obj\Debug\String.Builder Class.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\obj\Debug\String.Builder Class.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\String.Builder Class\obj\Debug\String.Builder Class.pdb
